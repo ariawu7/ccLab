@@ -3,7 +3,7 @@ var x = 150;
 var y = 167;
 
 function preload() {
-  biu = loadSound('../sound/019.wav');
+  biu = loadSound('sound/019.wav');
 }
 
 function setup() {
